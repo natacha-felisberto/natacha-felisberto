@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá, eu sou Natacha Felisberto 👋
+
+### Você pode se conectar junto a mim no meu LinkedIn:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px/> (https://br.linkedin.com/in/natacha-felisberto-42725a65)
+
+Meu README ainda está em fase de construção...
 
 <!--
 **natacha-felisberto/natacha-felisberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
