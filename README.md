@@ -4,19 +4,21 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px/> (https://br.linkedin.com/in/natacha-felisberto-42725a65)
 
-Meu README ainda está em fase de construção...
 
-<!--
-**natacha-felisberto/natacha-felisberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Natacha Felisberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=natacha-felisberto&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+🎓 Formações: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        Análise e Desenvolvimento de Sistemas
+        Universidade Estácio de Sá | concluído 2021
+
+        Tecnologia em Gestão de Turismo
+        Cefet | 2013
+
+
+📜 Certificações:
+
+        Cursos da DIO (em breve...)
+
+Meu README ainda está em fase de testes e construção...
+
